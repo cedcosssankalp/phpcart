@@ -151,34 +151,3 @@ body {
   border-radius: 5px;
   border: 1px solid #cccccc;
 }
-#product_list table {
-  width: 500px;
-}
-
-#product_list table th {
-  text-align: center;
-  background-color: lightblue;
-  font-size: large;
-  color: rgb(10, 105, 10);
-}
-#product_list table td {
-  text-align: center;
-  
-  font-size: 15px;
-  color:rgb(5, 97, 1);
-}
-#product_list table #actionTd {
-  text-align: left;
-}
-#subtotal{
-  width:50%;
-}
-#subtotal p{
-  background-color: rgb(219, 217, 69);
-  font-size: 20px;
-  width: 50%;
-  text-align: right;
-}
-.height{
-  height: 50px;
-}
